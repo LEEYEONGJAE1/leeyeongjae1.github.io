@@ -41,7 +41,6 @@ permalink: /:year/:month/:day/:title/
 footer-links:
   email: lyj8520675@naver.com
   github: LEEYEONGJAE1
-  instagram: yeongjae3576
   rss: # just type anything here for a working RSS icon
 
 plugins:
