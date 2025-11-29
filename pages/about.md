@@ -35,11 +35,14 @@ IT미래인재릴레이장학생 선발
 
 <img src = "/assets/images/review/acpc/image.png" width = "50%" height = "50%" />
 
-[2025 icpc seoul regional 진출](https://icpckorea.org/archives/3356) (Team NaNiGaSuKi) 
+[2025 icpc seoul regional 예선 34th place](http://static.icpckorea.net/2025/preliminary/scoreboard/) (Team NaNiGaSuKi) 
 
-[2025 icpc seoul regional 41st place]((http://static.icpckorea.net/2025/regional/scoreboard/)) (Team NaNiGaSuKi) 
+[2025 icpc seoul regional 41st place](http://static.icpckorea.net/2025/regional/scoreboard/) (Team NaNiGaSuKi) 
 
-<img src="/assets/images/review/icpc/1764409016646-eb477773-c3c2-434a-a0f9-6ca51e337540_1.png" width="50%" height="50%" />
+<img src="/assets/images/review/icpc/1764409016646-eb477773-c3c2-434a-a0f9-6ca51e337540_1.png" width="40%" height="40%" />
+
+<img src="/assets/images/review/icpc/image.png" width="30%" height="30%" />
+
 ---
 
 ### ROAD TO 700
