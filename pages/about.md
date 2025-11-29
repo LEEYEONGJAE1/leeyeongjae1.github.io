@@ -10,10 +10,6 @@ permalink: /pages/about/
 
 안녕하세요? 이영재입니다.
 
-일본 여행을 좋아합니다.
-
-![](/assets/images/fujisan.JPEG)
-
 ---
 
 ### ROAD TO CANDIDATE MASTER
@@ -33,12 +29,17 @@ permalink: /pages/about/
 
 IT미래인재릴레이장학생 선발
 
-숭실대학교 SCON 5th place 
+숭실대학교 [SCON](https://sccc.kr/scon/2025/) 5th place
 
-[ACPC (AWS x Codetree)](https://www.codetree.ai/ko/events/acpc) finals 51th place
+[2025 ACPC (AWS x Codetree)](https://www.codetree.ai/ko/events/acpc) finals 51st place
 
-2025 [icpc 본선진출](https://icpckorea.org/archives/3356) (Team NaNiGaSuKi)
+<img src = "/assets/images/review/acpc/image.png" width = "50%" height = "50%" />
 
+[2025 icpc seoul regional 진출](https://icpckorea.org/archives/3356) (Team NaNiGaSuKi) 
+
+[2025 icpc seoul regional 41st place]((http://static.icpckorea.net/2025/regional/scoreboard/)) (Team NaNiGaSuKi) 
+
+<img src="/assets/images/review/icpc/1764409016646-eb477773-c3c2-434a-a0f9-6ca51e337540_1.png" width="50%" height="50%" />
 ---
 
 ### ROAD TO 700
